@@ -7,4 +7,3 @@ if number == 0:
     print(f"{number} is equal")
 if number < 0:
     print(f"{number} is negative")
-    print("\n")
