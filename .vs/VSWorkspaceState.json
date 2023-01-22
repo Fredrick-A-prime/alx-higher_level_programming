@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\0x0F-python-object_relational_mapping\\tests",
+    "\\0x11-python-network_1"
   ],
-  "SelectedNode": "\\0x08-python-more_classes",
+  "SelectedNode": "\\0x11-python-network_1\\README.md",
   "PreviewInSolutionExplorer": false
 }
