@@ -1,12 +1,12 @@
-# Python - Network #0
+# Python - Network #1
 <p align="center">
 <img src="https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/images/TheWeb.png" width="" height="" />
 </p>
-  
+
 ## General Requirement & Environment
 <img src="https://github.com/TosinISOGUN/TosinISOGUN/blob/main/ALX.jpeg?raw=true" width="300" height="100" />
 
-- Allowed editors: vi, vim, emacs.  
+- Allowed editors: vi, vim, emacs.
 - A README.md file, at the root of the folder of the project, is mandatory.
 - All scripts will be tested on Ubuntu 20.04 LTS.
 - All Bash scripts should be exactly 3 lines long (wc -l file should print 3)
